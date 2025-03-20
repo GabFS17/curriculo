@@ -12,6 +12,11 @@ ul {
     padding: 16px;
 }
 
+ul li {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
 a {
     color: white;
     text-decoration: none;
@@ -56,5 +61,9 @@ footer p {
 }
 
 nav a:hover {
+    color:#588e42;
+}
+
+main a:hover {
     color:#588e42;
 }
